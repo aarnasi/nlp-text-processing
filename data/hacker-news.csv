@@ -1,0 +1,501 @@
+,url,title,score
+0,https://semiwiki.com/semiconductor-manufacturers/intel/314047-intel-4-presented-at-vlsi/,Intel 4 Deep Dive,16
+1,https://github.com/speakeasy-api/rest-template-go,Show HN: A RESTful API Template in Go,11
+2,https://blog.clubhouse.com/dynamite-our-client-library-for-using-dynamodb-faster-with-fewer-mistakes/,"Dynamite, our client library for using DynamoDB faster with fewer mistakes",12
+3,https://www.infoworld.com/article/3668197/how-cloudflare-emerged-to-take-on-aws-azure-and-gcp.html,"Cloudflare emerged to take on AWS, Azure, and GCP",21
+4,https://sourceware.org/pipermail/libc-alpha/2022-August/141193.html,glibc – GNU C Library 2.36,35
+5,https://www.engadget.com/sec-cryptocurrency-ponzi-scheme-forsage-175718451.html,SEC charges 11 people over 'textbook' $300M crypto Ponzi scheme,21
+6,https://twitter.com/davidrowley_pg/status/1554432120126201856,Performance of ORDER BY / DISTINCT has been terrible for too long in Postgres,16
+7,https://www.bloomberg.com/news/features/2022-08-01/goldman-lost-2-traders-then-accused-them-of-accessing-secret-code,"Goldman accuses developers of theft, damages careers (again)",11
+8,https://www.theguardian.com/us-news/2022/aug/01/polio-case-new-york-wastewater,Polio found in New York wastewater month before confirmed case emerged,15
+9,https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/postal-workers-debt-managers-overpaid/,Postal workers go into debt when management claim they are overpaid,19
+10,https://www.theverge.com/2022/8/2/23288612/meta-hosptials-sued-patient-privacy-facebook-data-hipaa,Meta sued for violating patient privacy with data tracking tool,13
+11,https://librearts.org/2022/08/audio-editors-for-linux-that-are-not-audacity/,Audio editors for Linux that are not Audacity,13
+12,https://www.coindesk.com/markets/2022/08/03/phantom-wallet-exploit-drains-millions-in-sol-tokens/,Solana Wallets Targeted in Latest Multimillion Dollar Hack,11
+13,https://arstechnica.com/gadgets/2022/08/linus-torvalds-uses-an-arm-powered-m2-macbook-air-to-release-latest-linux-kernel/,Linus Torvalds uses an Arm-powered M2 MacBook Air to release latest Linux kernel,14
+14,https://www.masteringemacs.org/article/evaluating-elisp-emacs,Evaluating Elisp in Emacs,28
+15,https://www.theguardian.com/commentisfree/2022/aug/03/i-thought-needing-subtitles-on-tv-just-meant-i-was-getting-old-turns-out-it-is-all-the-rage-among-the-kids,Four out of five viewers between 18 and 25 put subtitles on,11
+16,https://threema.ch/en/blog/posts/threema-libre,Threema Libre: Full Independence from Google Services,20
+17,http://www.groklaw.net/article.php?story=2011111122291296,"Android, Barnes & Noble, Patents and Microsoft",19
+18,https://tsk.bearblog.dev/an-unorganized-life/,An Unorganized Life,14
+19,https://noyb.eu/en/sweden-users-are-not-party-their-own-privacy-rights,Sweden: Users are not party to their own privacy rights?,22
+20,https://www.bloomberg.com/news/articles/2022-08-03/crypto-takes-a-fresh-hit-as-thousands-of-solana-wallets-hacked,Crypto Takes a New Hit as Thousands of Solana Wallets Hacked,15
+21,https://www.theverge.com/2022/8/3/23290225/google-meet-duo-video-calling-messaging,"Google Meet Meets Duo Meet, with Meet in Duo but Duo Isn’t Going into Meet",16
+22,https://theconversation.com/we-found-some-strange-radio-sources-in-a-distant-galaxy-cluster-theyre-making-us-rethink-what-we-thought-we-knew-187631,We found some strange radio sources in a distant galaxy cluster,12
+23,http://www.cimgf.com/2008/10/01/cocoa-touch-tutorial-iphone-application-example/,Cocoa Touch Tutorial - How to build a simple iPhone application,26
+24,https://www.scylladb.com/2022/08/03/implementing-a-new-io-scheduler-algorithm-for-mixed-read-write-workloads/,Implementing a New IO Scheduler Algorithm for Mixed Read/Write Workloads,11
+25,http://blogs.discovermagazine.com/badastronomy/2011/11/13/jaw-dropping-space-station-time-lapse/,Jaw dropping Space Station time lapse,11
+26,https://fs.blog/evaluating-information/,Evaluating Information: Find the Signal in the Noise,11
+27,https://thebulletin.org/2022/08/are-us-threat-assessments-outpacing-the-military-threats-america-actually-faces/,Are US threat assessments outpacing military realities?,19
+28,https://www.scientificamerican.com/article/algorithm-that-detects-sepsis-cut-deaths-by-nearly-20-percent/,Algorithm That Detects Sepsis Cut Deaths by Nearly 20 Percent,12
+29,https://www.npr.org/2022/08/03/1114964240/new-battery-technology-china-vanadium,The U.S. made a breakthrough battery discovery – then gave technology to China,18
+30,https://www.scmp.com/news/china/diplomacy/article/3187619/china-set-begin-effective-taiwan-blockade-hours-after-nancy,China set to begin effective Taiwan blockade hours after Nancy Pelosi visit,11
+31,https://www.nature.com/articles/d41586-022-02112-0,Pig organs partially revived in dead animals – researchers are stunned,11
+32,http://www.physorg.com/news142185056.html,Musicians use both sides of their brains more frequently than average people,15
+33,https://twitter.com/MayhemDayOne/status/1554571684459560961,"280M+ records in this Indian database, publicly exposed",12
+34,https://www.sciencedaily.com/releases/2022/07/220729173148.htm,Common viruses may be triggering the onset of Alzheimer's disease,11
+35,https://www.npr.org/2022/08/03/1114964240/new-battery-technology-china-vanadium,How the U.S. gave away a breakthrough battery technology to China,16
+36,https://app.learningloop.org/loop/founders,Show HN: Learning Loop – Discover resources recommended by the founders,18
+37,https://www.nature.com/articles/d41586-022-02112-0,Pig organs partially revived in dead animals – researchers are stunned,11
+38,http://www.buzzmachine.com/2011/11/14/our-notion-of-nations/,Our notion of nations: Jeff Jarvis,13
+39,https://thegradient.pub/lessons-from-deploying-deep-learning-to-production/,Lessons from Deploying Deep Learning to Production,16
+40,https://www.highlight.io,Show HN: Highlight – Debug customer-facing issues with replay,21
+41,http://joel.is/post/12790799237/achieving-scale-by-doing-things-that-dont-scale,Achieving scale by doing things that don’t scale,18
+42,https://serokell.io/blog/kinds-and-hkts-in-haskell,Kinds and Higher-Kinded Types in Haskell,13
+43,https://crates.io/crates/workspace-gen,Workspace generator for multiple Cargo projects,12
+44,https://arxiv.org/abs/2208.02093,Detection of Compiler- and Linker-Introduced Leakage,18
+45,https://arstechnica.com/information-technology/2022/08/huge-flaw-threatens-us-emergency-alert-system-dhs-researcher-warns/,"“Huge flaw” threatens US emergency alert system, DHS researcher warns",16
+46,http://jacquesmattheij.com/There+is+no+shame+in+failure,There is no shame in failure,15
+47,https://en.wikipedia.org/wiki/Waffle_House_Index,Waffle House Index,17
+48,https://arstechnica.com/gaming/2022/08/indie-devs-outraged-by-unlicensed-game-sales-on-gamestops-nft-market/,Indie devs outraged by unlicensed game sales on GameStop’s NFT market,16
+49,http://edwardfeser.blogspot.com/2022/07/confucian-hylemorphism.html,Confucian Hylemorphism,17
+50,https://m.slashdot.org/story/403008,How the US Gave Away a Breakthrough Battery Technology to China,11
+51,https://www.youtube.com/watch?v=N4h46_TCmGc,The State of Julia (In 2022) with Jeff Bezanson – JuliaCon 2022,11
+52,https://paleotronic.com/applesoft/,Online Applesoft Basic Editor,18
+53,https://www.thurrott.com/cloud/web-browsers/270729/in-wake-of-controversy-duckduckgo-to-block-microsoft-trackers,DuckDuckGo to Now Block Microsoft Trackers,26
+54,https://www.npr.org/2022/08/03/1114964240/new-battery-technology-china-vanadium,How the U.S. gave away a breakthrough battery technology to China,14
+55,https://labs.ripe.net/author/bassosimone/measuring-encrypted-dns-censorship-using-ooni-probe/,Measuring Encrypted-DNS Censorship Using OONI Probe,19
+56,http://corner.squareup.com/2011/11/luhny-bin.html,Coding Challenge: The Luhny Bin,35
+57,https://www.kitplanes.com/heron-turbine/,Heron Turbine,11
+58,https://www.brookings.edu/research/white-and-youth-population-losses-contributed-most-to-the-nations-growth-slowdown-new-census-data-reveals/,Census: White and youth population losses contributed most to growth slowdown,12
+59,https://www.npr.org/2022/08/05/1115946395/amazon-buying-roomba-irobot,Amazon is buying Roomba vacuum maker iRobot for $1.7B,17
+60,https://github.com/bluejekyll/jaffi,"Jaffi, a Rust FFI Generator for JNI",12
+61,http://www.economist.com/blogs/freeexchange/2011/11/unemployment,Unemployment: Those silly young people | Economist,16
+62,http://www.engineyard.com/blog/2011/groupon-makes-history-in-more-ways-than-one/,Groupon Still Hosted on EngineYard,11
+63,https://honojs.dev/,"Hono – is a small, simple, and ultrafast web framework. Fast, but not only fast",26
+64,http://techcrunch.com/2011/11/14/generation-make/,We are Generation Make.,15
+65,https://www.youtube.com/watch?v=iywx09SVETE,Newegg Is Desperate: Dumping GPUs with “JustGPU” [video],21
+66,https://patorjk.com/software/taag/#p=display&f=3D-ASCII&t=HACKER%20NEWS,Show HN: Text to ASCII Art Generator (TAAG),12
+67,https://twitter.com/s_palm/status/1555113804475772929,Scunthorpe problem reloaded: Guardian Australia removes „trans“ from tweets,13
+68,https://www.laphamsquarterly.org/roundtable/song-summer,The Song of the Summer: A Heian-era epistolary romance,20
+69,https://www.theguardian.com/commentisfree/2016/sep/13/lionel-shrivers-full-speech-i-hope-the-concept-of-cultural-appropriation-is-a-passing-fad,'I hope the concept of cultural appropriation is a passing fad' (2016),13
+70,https://www.tenereteam.com/blogs/which-trees-have-the-best-carbon-sequestration-ability/,Which Trees Have the Best Carbon Sequestration Ability?,15
+71,https://www.smithsonianmag.com/history/inside-the-race-to-preserve-treasures-from-a-legendary-17th-century-shipwreck-in-the-bahamas-180980492/,The Race to Preserve Treasures from a Legendary 17th-Century Shipwreck,20
+72,https://www.cnbc.com/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html,CA DMV Accuses Tesla of Deception in Marketing Autopilot and Full Self-Driving,22
+73,https://jacky.wtf/2022/6/Cpq0,A Web That Reflects People and Their Values,14
+74,http://www.livestream.com/occupynyc,Occupy Wall Street being raided by police,15
+75,https://twitter.com/privacyint/status/1555572602273406976,French data protection authority fines Criteo of €60M,15
+76,https://origami.kosmulski.org/blog/2022-08-07-growing-up-origamist,Growing Up as an Origamist,17
+77,https://www.atlasobscura.com/articles/solar-cooker-new-mexican-chile-roast,Why Solar Roasting Could Be the Future for New Mexico’s Chiles,12
+78,https://archives.loomcom.com/genera/genera-install.html,Running Open Genera 2.0 on Linux (2020),17
+79,https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-software-medical-device,Artificial Intelligence and Machine Learning in Software as a Medical Device,11
+80,https://twitter.com/jackrusher/status/1556214400658378752,The Smalltalk community getting the software development process right in 1988,13
+81,https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives,‘Risks posed by AI are real’: EU moves to beat the algorithms that ruin lives,11
+82,https://www.theguardian.com/technology/2022/aug/07/apple-asks-suppliers-in-taiwan-to-label-products-as-made-in-china-report,Apple asks suppliers in Taiwan to label products as made in China,11
+83,http://www.cs.columbia.edu/cg/SingleShapeGen/,SingleShapeGen: Learning to Generate 3D Shapes from a Single Example,11
+84,https://www.bbc.co.uk/news/business-62460882,Qantas asks executives to work as baggage handlers for three months,16
+85,https://www.documentcloud.org/documents/22127991-585743312-california-dmv-accusation-against-tesla-inc-vehicle-dealer?responsive=1&title=1,California DMV Tesla 'self driving' complaint,11
+86,https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present#slide=id.i0,Practical Examples in Data Oriented Design,11
+87,https://www.theregister.com/2022/08/08/slack_passwords/,Slack leaked hashed passwords from its servers for years,38
+88,https://arstechnica.com/information-technology/2022/08/huge-flaw-threatens-us-emergency-alert-system-dhs-researcher-warns/,"“Huge flaw” threatens US emergency alert system, DHS researcher warns",11
+89,https://www.cnbc.com/2022/08/08/axios-to-sell-itself-to-cox-enterprises-for-525-million.html,Axios to sell itself to Cox Enterprises for a reported $525M,11
+90,https://blog.acolyer.org/2021/02/08/the-ants-and-the-pheromones/,The Ants and the Pheromones (2021),23
+91,https://wasmer.io/posts/wasm-as-universal-binary-format-part-1-native-executables,WebAssembly as a Universal Binary Format – Part I: Native Executables,22
+92,https://news.sky.com/story/gchq-discovered-nationally-significant-vulnerability-in-huawei-equipment-12086688,GCHQ discovered significant vulnerability in Huawei equipment (2020),14
+93,https://www.vox.com/recode/2022/8/3/23290388/crypto-illegal-scams-lawsuit-sec,What will it take to send some crypto bros to prison?,13
+94,https://greekreporter.com/2022/08/07/40000-year-old-neanderthal-cave/,40k-Year-Old Neanderthal Cave Chamber Discovered in Gibraltar,11
+95,https://twitter.com/spectatorindex/status/1556824785627512832,Reports of explosion at Google data center in Iowa,12
+96,https://www.hollywoodreporter.com/news/music-news/olivia-newton-john-dead-grease-1235194880/,Olivia Newton-John Has Died,11
+97,http://www.channelregister.co.uk/2011/11/15/boundary_network_monitoring/,Ex-Amazon EC2 wizard pinpoints where your cloud is crap,12
+98,https://www.scrapingbee.com/blog/web-scraping-javascript/,Web Scraping with JavaScript and Node.js,12
+99,http://www.geek.com/articles/mobile/how-much-of-your-phone-is-yours-20111115/,"Android, CarrierIQ, and the collection of your mobile data",12
+100,https://blog.sentry.io/2022/07/22/performance-impact-of-generated-javascript/,Understanding the Performance Impact of Generated JavaScript,14
+101,https://sequentialread.com/federation-vs-clustering-self-hosting/,Federation vs. Clustering: Self-determination vs. distributed computing?,50
+102,https://www.bbc.com/news/science-environment-62391069,'Forever chemicals' in rainwater exceed safe levels,38
+103,https://www.poynter.org/commentary/2022/why-does-the-new-york-times-prosper-while-gannett-struggles-here-are-four-reasons/,Why does the New York Times prosper while Gannett struggles?,11
+104,https://www.evanmiller.org/how-not-to-run-an-ab-test.html,How Not To Run an A/B Test (2010),11
+105,https://techcrunch.com/2022/08/09/biden-signs-chips-bill-in-bid-to-supercharge-us-semiconductor-production/,"Biden signs CHIPS bill, in bid to supercharge US semiconductor production",12
+106,https://cryptouk.io/appg/,Crypto and Digital Assets All-Party Parliamentary Group Inquiry,11
+107,https://www.simpleanalytics.com/blog/us-data-transfer-unlawful-according-to-german-procurement-authority,US data transfer unlawful according to German procurement authority,13
+108,https://www.bloomberg.com/news/articles/2022-08-09/doj-poised-to-sue-google-over-ad-market-as-soon-as-september,DOJ Poised to Sue Google over Ad Market as Soon as September,15
+109,https://www.bunniestudios.com/blog/?p=6481,Hydroponics: Growing an Appreciation for Plants,26
+110,https://query.wikidata.org/,Wikidata Query Service,12
+111,https://tickets.spotify.com/,Spotify Tickets,11
+112,https://www.eff.org/deeplinks/2011/11/eff-mourns-passing-ilya-zhitomirskiy,EFF Mourns the Passing of Ilya Zhitomirskiy,13
+113,http://siliconallee.com/editorial/2011/11/11/keep-an-unrecognised-eye-on-hamburg-vs-facebook,The city of Hamburg vs. Facebook,15
+114,https://github.com/seek-oss/vanilla-extract,"Vanilla-extract: Use TypeScript as the CSS preprocessor, output pure CSS",17
+115,https://markets.businessinsider.com/news/currencies/voyager-digital-crypto-regulation-federal-reserve-fdic-insured-false-statement-2022-7,Regulators order crypto firm Voyager to stop saying accounts are FDIC insured,13
+116,https://www.timescale.com/blog/what-postgresql-contributor-heikki-linnakangas-has-to-say-about-the-state-of-postgresql-2022/,State of PostgreSQL 2022,20
+117,https://www.hoover.org/research/engineering-professions-role-accelerating-technological-innovation,The engineering profession’s role in accelerating technological innovation,60
+118,https://words.filippo.io/dispatches/post-quantum-age/,KEMs and Post-Quantum Age,48
+119,https://www.engadget.com/twitter-transparency-report-record-account-data-requests-164003519.html,Twitter warns of 'record highs' in account data requests,11
+120,https://gizmodo.com/facebook-kenya-pro-genocide-ads-hate-speech-suspension-1849348778,Facebook Approved Pro-Genocide Ads in Kenya,37
+121,https://observablehq.com/@tomlarkworthy/ndd,Notebook Dataflow Debugger (Ndd),36
+122,https://arxiv.org/abs/2207.14157,A hazard analysis framework for code synthesis large language models,18
+123,http://www.groklaw.net/article.php?story=20111111121548972,"B&N details Microsoft's ""anticompetitive behavior in the mobile OS market""",12
+124,https://cacm.acm.org/magazines/2022/8/262916-computational-thinking-in-the-era-of-data-science/fulltext,Computational Thinking in the Era of Data Science,13
+125,https://hvmi.github.io/blog/2020/11/04/bddisasm.html,Bddiasm: The x86 Instruction Decoder,25
+126,https://bugzilla.gnome.org/show_bug.cgi?id=78514#c19,Writing open source software for the last time,29
+127,https://www.wired.com/story/big-business-burying-carbon-dioxide-capture-storage/,The Big Business of Burying Carbon,11
+128,https://blog.ffwll.ch/2022/07/locking-engineering.html,Locking Engineering Principles,24
+129,https://blogs.igalia.com/dpiliaiev/gfxreconstruct-test-mobile-gpus/,Testing Vulkan drivers with games that cannot run on the target device,18
+130,https://www.theregister.com/2022/07/29/the_us_biggest_datacenter_market/,The US's biggest datacenter market is short on electricity,17
+131,http://www.nytimes.com/2011/11/13/world/devastation-at-japan-site-seen-up-close.html?_r=1&hp,"Devastation at Japan Site, Seen Up Close",12
+132,https://lisp-journey.gitlab.io/who/,Who’s Using Common Lisp?,50
+133,https://www.wired.com/story/apples-union-busting-campaign-caused-a-bad-fallout/,"The Fallout from Apple’s Bizarre, Dogged Union-Busting Campaign",18
+134,https://gautiersblog.blogspot.com/2016/08/lzma-compression.html,LZMA Compression Explained,12
+135,http://www.informatik.uni-freiburg.de/~burgard/ai_exams/,Real World Exams for the Global AI Class,12
+136,https://the.scapegoat.dev/diagrams/,Diagrams are the ultimate engineering tool,15
+137,https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/,Seeking mathematical truth in counterfeit coin puzzles,18
+138,https://www.theregister.com/2022/07/29/smeat_at_50/,Preparing for Skylab: 1972 experimental mission that never left the ground,30
+139,https://blog.stephenmarz.com/2022/07/26/aplic/,The RISC-V APLIC’s New Features,32
+140,https://www.smithsonianmag.com/innovation/could-water-cremation-become-the-new-american-way-of-death-180980479/,Water cremation – A sustainable option for what to do with our remains,11
+141,https://www.sciencedaily.com/releases/2022/07/220728075911.htm,A 'nano-robot' built from DNA to explore cell processes,16
+142,https://slate.com/human-interest/2022/07/mega-millions-jackpot-winner-numbers-myths-about-lotteries.html,Why the Myth of the Miserable Lottery Winner Just Won’t Die,24
+143,https://apnews.com/article/science-california-pollution-carbon-neutrality-cd2ffda45e2671e5a4249b0b80be2a7f,California not counting methane leaks from idle wells,12
+144,https://fortune.com/2022/07/31/trailblazing-star-trek-actress-nichelle-nichols-dead-at-89-nasa-mlk-jr/,Trailblazing 'Star Trek' actress Nichelle Nichols is dead at 89,15
+145,https://scottaaronson.blog/?p=6622,Juris Hartmanis (1928-2022): Guest post by Ryan Williams,17
+146,https://twitter.com/AsahiLinux/status/1553968394734813184,Linus Torvalds Released Linux 5.19 from an M2 MacBook Air Running Asahi Linux,16
+147,"https://p2p.mirotalk.com//test?iceServers=[{%22urls%22:%22stun:stun.l.google.com:19302%22},{%22urls%22:%22turn:openrelay.metered.ca:443%22,%22username%22:%22openrelayproject%22,%22credential%22:%22openrelayproject%22}]",Show HN: How to test whether a STUN/TURN server is working properly,17
+148,https://www.moderntreasury.com/how-to-build-a-digital-wallet-ebook,How to build a digital wallet in less than a day,16
+149,https://nanoscalereslett.springeropen.com/articles/10.1186/s11671-018-2760-6,Dye-Sensitized Solar Cells: Fundamentals and Current Status,17
+150,https://arstechnica.com/gadgets/2022/08/linus-torvalds-uses-an-arm-powered-m2-macbook-air-to-release-latest-linux-kernel/,Linus Torvalds uses an Arm-powered M2 MacBook Air to release latest Linux kernel,17
+151,https://www.cockroachlabs.com/blog/dbconsole-query-tuning/,SQL Query Tuning with DB Console – CockroachDB,25
+152,https://medium.com/@patrickscoleman/what-i-wish-i-knew-before-accepting-a-startup-offer-73a7aa5fd401,What I wish I knew before accepting a startup offer,14
+153,https://www.centerforairights.com/home,Center for AI Rights,11
+154,http://www.americancensorship.org/#,American Censorship Day - Stop PROTECT-IP / SOPA,16
+155,https://www.cnn.com/2022/07/28/tech/apple-q3-earnings/index.html,Apple's profit declines nearly 11%,19
+156,https://www.stuff.co.nz/world/australia/300651719/an-alien-obelisk-space-junk-hits-nsw-sheep-paddock,Space Junk Lands in Australian Sheep Field,11
+157,https://kyivindependent.com/uncategorized/ukraine-appeals-to-meta-to-stop-blocking-ukrainians-sharing-images-of-russian-war-crimes,Ukraine appeals to Meta to stop blocking posting about Russian war crimes,14
+158,http://bits.blogs.nytimes.com/2011/11/13/disruptions-the-3-d-printing-free-for-all/,Disruptions: The 3-D Printing Free-For-All,11
+159,https://arxiv.org/abs/2208.00710,Hitchhiker’s Guide to Facebook Web Tracking with Invisible Pixels and Click IDs,12
+160,https://blog.nindalf.com/posts/stop-citing-tiobe/,Please Stop Citing Tiobe,16
+161,http://vimeo.com/32001208,[video] Time-lapse view of the earth from the ISS,13
+162,https://medium.com/jina-ai/the-next-level-of-multi-modality-in-docarray-and-jina-a97b38280ab0,The next level of multi-modality in DocArray,13
+163,https://en.wikipedia.org/wiki/China%27s_final_warning,China's Final Warning,16
+164,https://www.youtube.com/watch?v=nQHZi1JMjr4,Making Games for a Console That Doesn't Exist – Pico-8 and “Fantasy Consoles”,14
+165,https://www.youtube.com/watch?v=uvLQ5f3KDXk,React Native Skia – Pedal to the Metal (Video Announcement),15
+166,https://www.speaker.gov/newsroom/8222-2,"Pelosi, Congressional Delegation Statement on Visit to Taiwan",13
+167,https://www.johndcook.com/blog/2022/08/02/org-babel-vs-jupyter/,Org-Mode as a Lightweight Notebook,39
+168,https://www.theregister.com/2022/08/02/kioxia_everspin_persistent_memory/,"Last week Intel killed Optane. Today, Kioxia and Everspin announce similar tech",16
+169,https://github.com/goelayu/Jawa,A New Web Archival Crawler Tackling Storage+Fidelity Issues,22
+170,https://retractionwatch.com/2022/08/03/exclusive-plos-one-to-retract-more-than-100-papers-for-manipulated-peer-review/,PLOS ONE to retract more than 100 papers for manipulated peer review,26
+171,https://terrytao.wordpress.com/2008/08/07/on-time-management/,On Time Management,30
+172,https://judiciary.house.gov/online-platforms-and-market-power/additional-documents.htm,"Internal Documents from Google, Amazon and FB",13
+173,https://medium.com/jina-ai/write-your-story-and-discoart-will-make-it-come-to-life-f2bc0cb4dcab,Summarizing text to create storyboards with DistilBART model and DiscoArt,13
+174,https://www.vinoth.net/sideprojects/,Sideprojects Are Hard,23
+175,https://text.npr.org/1114964240,The US made a breakthrough battery discovery – then gave the technology to China,13
+176,https://thehill.com/policy/3585336-how-landlords-are-evading-taxes-and-fueling-the-housing-crisis/,How landlords are evading taxes and fueling the housing crisis,15
+177,https://www.cnbc.com/2022/08/02/celsius-investors-owed-4point7-billion-beg-judge-to-recover-life-savings.html,"Homeless, suicidal: Celsius investors beg bankruptcy judge for help",14
+178,https://www.npr.org/2022/08/03/1115378385/tonga-volcano-stratosphere-water-warming,"Tonga's volcano sent tons of water vapor into the atmosphere, may warm earth",14
+179,http://cera.us/2011/11/14/dare-to-be-under-employed/,Business 101 For Hackers - DU Math & Computer Science Society Talk [slidecast],16
+180,http://niallohiggins.com/2011/11/11/40k-usd-funding-no-equity-startup-chile-uncovered/,"$40,000 USD Funding, No Equity - Startup Chile Uncovered",17
+181,https://github.com/komrad36/CRC,Fastest CRC32 for x86,12
+182,https://www.theregister.com/2022/08/04/cdt_school_surveillance/,US Education officials urged to curb student snoopware,11
+183,https://trunc.org/learning/the-mozlila-user-agent-bot,The Mozlila user agent and why it is part of many web attack campaigns,39
+184,http://birrell.org/andrew/papers/ImplementingCVs.pdf,Implementing Condition Variables with Semaphores (2003) [pdf],20
+185,https://sentido-labs.com/en/library/cedro/202106171400/use-embed-c23-today.html,Use embed from C23 today with the Cedro pre-processor,17
+186,http://www.guardian.co.uk/technology/2008/oct/04/dork.talk.stephen.fry,Stephen Fry on cloud computing,12
+187,https://www.theregister.com/2022/08/03/chip_upstart_alleges_cadence_sabotaged/,Chip startup Tachyum alleges Cadence sabotaged processor rollout,12
+188,https://www.quantamagazine.org/geometric-analysis-reveals-how-birds-mastered-flight-20220803/,Geometric Analysis Reveals How Birds Mastered Flight,24
+189,https://www.ft.com/content/96160847-af3f-44b6-8129-1e39a73a28d3,Women calling out Apple’s handling of misconduct claims,20
+190,https://nypost.com/2022/08/04/apple-retaliated-against-sex-abuse-victims-report/,Apple fought alleged sex-abuse victims to enforce ‘code of silence’,52
+191,https://www.bbc.com/news/business-62405037,UK interest rates see biggest rise in 27 years,16
+192,https://github.blog/2022-08-04-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows/,Simple things you can do with GitHub Packages to level up your workflows,20
+193,https://www.economist.com/1843/2022/07/28/how-to-go-to-therapy-without-talking-about-your-feelings,How to go to therapy without talking about your feelings,26
+194,http://www.nytimes.com/2007/07/01/sports/01cage.html?ex=1340942400&en=6957d371a295eb7e&ei=5090&partner=rssuserland&emc=rss,Living in a Batting Cage (or One Example of How Crazy People Have a Better Chance at Success),12
+195,https://www.igorslab.de/en/intels-arc-graphics-cards-on-the-tip-over-resigning-board-partners-system-integrators-and-dealers/,Intel’s ARC graphics cards on the brink?,14
+196,https://genieframework.com/blog/announcing-genie-builder.html,"Show HN: Genie Builder, no-code UI plugin for building data apps",38
+197,http://www.eeweb.com/blog/robert_berger/arduino-for-mere-m0rtals-part-1,Arduino for mere m0rtals - Part 1,18
+198,http://cs.nyu.edu/rgrimm/xtc/,Xtc — eXTensible C,13
+199,https://www.reuters.com/business/sustainable-business/switzerlands-new-energy-asset-hydro-plant-with-capacity-charge-400000-car-2022-08-05/,Switzerland’a new hydro plant charges 400K vehicles simultaneously,14
+200,https://innlead.shop/product/ava-4k-wireless-monitor-dex-pc-mac-ns/,AVA 4K wireless monitor with mmWave transmission,16
+201,https://www.bbc.co.uk/news/world-europe-62436468,France drought: Parched towns left short of drinking water,15
+202,http://blog.vmsplice.net/2022/06/comparing-virtio-nvme-and-iouring-queue.html,"Comparing VIRTIO, NVMe, and io_uring queue designs",34
+203,http://eeve.co/s/126,"A day at the YC interviews, see what it looks like from inside",12
+204,https://eli.thegreenplace.net/2017/interacting-with-a-long-running-child-process-in-python/,Interacting with a long-running child process in Python,11
+205,https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/,Epistemic Learned Helplessness,17
+206,http://www.nytimes.com/2011/11/15/technology/hiding-or-using-your-name-online-and-who-decides.html?ref=global-home,Naming Names: Rushdie Wins Facebook Fight,18
+207,https://www.youtube.com/watch?v=KLEH8RJsYgI,Building a Lego-powered Submarine with automatic depth control,11
+208,https://twitter.com/jackclarkSF/status/1555980412333133824,Spicy takes about AI policy,12
+209,https://rwmalonemd.substack.com/p/groupthink-we-are-all-victims,Groupthink: Modern Perspective,11
+210,https://scholars-stage.org/has-technological-progress-stalled/,Has Technological Progress Stalled?,11
+211,https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/,"Building Stronger, Happier Engineering Teams with Team Topologies",16
+212,https://amir.rachum.com/blog/2022/08/07/starter-project/,How to pick a starter project that'll make someone quit,30
+213,https://www.theguardian.com/technology/2022/aug/07/apple-asks-suppliers-in-taiwan-to-label-products-as-made-in-china-report,Apple asks suppliers in Taiwan to label products as made in China,12
+214,https://peterbloem.nl/blog/pca-4,The Singular Value Decomposition,25
+215,https://www.caranddriver.com/news/a40576948/dealer-markups-cars-website-details/,Now There's a Crowdsourced Website That Tracks Car-Dealer Markups,12
+216,https://siginthistorian.blogspot.com/2022/03/ten-avoidable-problems-which-made-royal.html,Avoidable problems which made the Royal Navy's encryption exploitable in 1939,12
+217,https://www.gnu.org/software/datamash/,GNU Datamash,14
+218,http://www.spring.org.uk/2008/09/how-to-improve-your-self-control.php,How to improve your self-control,22
+219,https://fortune.com/2022/08/07/lumber-prices-lumber-bubble-when-to-expect-the-lowest-wood-prices/,Lumber futures down 62% amid ‘Great Reset.’ Here’s when DIYers can expect deals,12
+220,https://pluralistic.net/2022/08/05/a-lousy-taxi#a-giant-asterisk,Uber’s Still Not Profitable,25
+221,http://derbyjs.com/,Derby: JS MVC framework aims to unite client- and server-side code,12
+222,http://www.fivesimplesteps.com/products/web-app-success,"Show HN: ""Web App Success"" is published today (w/ case study of patio11's BCC)",11
+223,https://arstechnica.com/tech-policy/2022/08/musk-challenges-twitter-ceo-to-debate-twitter-will-stick-to-its-lawsuit-instead/,Musk wants public debate with Twitter CEO instead of that upcoming court trial,15
+224,https://twitter.com/bantg/status/1556721709931175937,GitHub accounts of people who contributed to Tornado.Cash repos just got deleted,11
+225,https://www.google.com,Is Google.com Down?,282
+226,https://www.ketv.com/article/council-bluffs-google-data-center-electrical-event-three-people-critically-injured/40838924,Three people critically injured after 'electrical event' at Google Data Center,23
+227,https://www.techdirt.com/2022/08/08/new-jersey-cops-are-using-dna-drawn-from-newborns-in-criminal-investigations/,New Jersey Cops Are Using DNA Drawn from Newborns in Criminal Investigations,28
+228,https://www.cnet.com/roadshow/news/north-american-production-chip-shortage/,Over 100K Cars Cut from North American Production This Week Due to Chip Shortage,15
+229,http://blog.computationalcomplexity.org/2022/08/the-godfather-of-complexity.html,The Godfather of Complexity,72
+230,https://www.androidauthority.com/water-resistant-phone-warning-3192071/,Friendly reminder: Your phone’s water resistance rating doesn't mean much,12
+231,https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html,How Russia Took over Ukraine’s Internet in Occupied Territories,11
+232,http://news.netcraft.com/archives/2011/11/15/sustained-ddos-attack-against-4chan.html,Sustained DDoS Attack Against 4chan,16
+233,https://www.nationalgeographic.co.uk/science-and-technology/2022/08/sea-creatures-pollinate-marine-plants-and-algae-surprising-scientists,Sea creatures pollinate marine plants and algae,41
+234,http://code.mixpanel.com/2011/11/15/internship-stories/,Mixpanel: Internship stories,34
+235,https://ably.com/blog/cloud-pubsub-services-compared-azure-web-pubsub-ably,Cloud pubsub services compared: Azure Web PubSub vs. Ably,13
+236,https://github.com/readme/guides/maintainer-monolith,Breaking Apart the maintainer Monolith (By Swyx),15
+237,https://www.space.com/india-sslv-rocket-first-launch,India's rocket fails to put satellites in right orbit in debut launch,21
+238,https://blog.upbound.io/succeeding-as-a-fully-remote-project-manager/,Succeeding as a Fully Remote Product Manager Means Breaking Meeting Dependence,17
+239,https://www.theatlantic.com/magazine/archive/2022/03/how-to-change-your-personality-happiness/621306/,I Gave Myself Three Months to Change My Personality,12
+240,https://blog.cloudflare.com/2022-07-sms-phishing-attacks/,The mechanics of a sophisticated phishing scam and how we stopped it,20
+241,https://www.getlago.com/blog/why-heroku-like-pricing-models-are-hard-to-build,Why Heroku-like pricing models are hard to build,27
+242,https://arstechnica.com/information-technology/2022/08/architectural-bug-in-some-intel-cpus-is-more-bad-news-for-sgx-users/,"SGX, Intel’s supposedly impregnable data fortress, has been breached yet again",32
+243,https://twitter.com/dagsterio/status/1557040015237976065,Show HN: We Built Vercel for Data Engineers,17
+244,https://www.nintendolife.com/news/2022/08/super-punch-out-hidden-two-player-mode-discovered-28-years-later,Two player mode in Super Punch Out ( SNES ) discovered,14
+245,https://www.eurekalert.org/news-releases/960931,Scientists issue plan for rewilding the American West,11
+246,http://www.scribd.com/hacks,Engineering Fun at Scribd: Remote-Controlled Skeleton Car,23
+247,https://www.productled.org/foundations/what-is-product-led-growth,What is product-led growth?,17
+248,https://www.nbcnews.com/tech/tech-news/facebook-turned-chat-messages-mother-daughter-now-charged-abortion-rcna42185,Facebook turned over chat messages of mother and daughter charged over abortion,27
+249,https://www.historytoday.com/archive/missing-pieces/going-goinggoethe,"Going, going... Goethe?",25
+250,https://drewdevault.com/2022/08/10/Organizing-my-thoughts.html,How I wish I could organize my thoughts,12
+251,https://gentimedia.com/,Show HN: Genti Audio – Stories and podcasts in African languages,13
+252,https://zellij.dev/news/sixel-search-statusbar/,Zellij – terminal multiplexer with Sixel support,11
+253,https://blog.cachix.org/posts/2022-07-29-cachix-deploy-public-beta/,Cachix Deploy Public Beta,12
+254,https://codebits.eu/s/blog/64ba234e87473f8b9997496e2ceaa16b,Codebits: BREAKING NEWS IOCCC IS BACK,11
+255,https://web3isgoinggreat.com/single/kucoin-announces-anti-fud-fund-to-track-down-and-sue-critics,KuCoin announces “Anti-FUD Fund” to track down and sue critics,16
+256,https://www.analogue.co/developer,Analogue: OpenFPGA,14
+257,https://www.theatlantic.com/science/archive/2022/07/moon-lunar-pits-comfortable-temperature/670991/,The Coziest Spot on the Moon,11
+258,https://www.theverge.com/2022/7/29/23282660/analogue-pocket-spacewar-1962,Analogue releases video game from 1962 on the Pocket,12
+259,https://www.schneier.com/blog/archives/2022/07/microsoft-zero-days-sold-and-then-used.html,Microsoft Zero-Days Sold and Then Used,15
+260,https://minimaxir.com/2022/07/food-photography-ai/,Absurd AI-Generated Professional Food Photography with DALL-E 2,22
+261,https://cyb3rsecurity.tips/p/-using-google-analytics-you-better,Using Google Analytics? Think about a plan B,29
+262,https://lwn.net/Articles/759188/,IR Decoding with BPF,40
+263,https://blog.wolfram.com/2022/07/29/four-things-about-wolframalpha-you-may-not-know/,Four Things about Wolfram Alpha You May Not Know,23
+264,https://northvolt.com/articles/northvoltett-delivers/,Europe's first homegrown gigafactory delivers,14
+265,https://twitter.com/bps_space/status/1553103061135945728,"Here we have it, the first successful model rocket propulsive landing",25
+266,https://imhex.werwolv.net/,"ImHex – A Hex Editor for Reverse Engineers, Programmers",12
+267,https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/,US regulators will certify first small nuclear reactor design,59
+268,https://www.science.org/content/blog-post/faked-crystallography,Faked Crystallography,63
+269,https://www.washingtonpost.com/outlook/2022/07/29/bee-cognition-insect-intelligence-research/,The Consciousness of Bees,13
+270,https://scottaaronson.blog/?p=6622,Juris Hartmanis (1928-2022),13
+271,https://dejanualexandru.medium.com/the-mathematics-behind-monitoring-ddbd9403c32c,The mathematics behind monitoring,15
+272,https://theconversation.com/revealed-untold-story-of-the-cia-stasi-double-agent-abandoned-after-22-years-of-service-174668,Untold story of the CIA/Stasi double agent abandoned after 22 years of service,45
+273,https://www.zynthian.org/,Zynthian – Open Synth Platform,23
+274,http://devver.net/blog/2008/10/ruby-tools-roundup/,"Ruby Tools Roundup, reviewing 10 tools that can make your project better",18
+275,https://blogs.mathworks.com/cleve/2022/04/01/the-enigma-qube-merging-an-enigma-machine-and-a-rubiks-cube/,"The Enigma Qube, Merging an Enigma Machine and a Rubik’s Cub",36
+276,http://sushimee.com,10 Year Old Entrepreneur Launches Sushimee at Startup Weekend,14
+277,https://www.theregister.com/2022/08/01/google_london_outage_incident_report/,Google shut down London datacentre to save it during heatwave,13
+278,https://julienblanchard.com/c-styles,C Styles: a collection of interesting C style guides,22
+279,https://www.military.com/off-duty/star-treks-lt-uhura-was-nasa-recruiter-and-it-worked-charm.html,'Star Trek's' Lt. Uhura Was a NASA Recruiter. And It Worked Like a Charm.,24
+280,https://twitter.com/axboe/status/1554115250588471297,"Io_uring: 122M IOPS in 2U, with 80% of the system idle",16
+281,https://www.phoronix.com/news/Lenovo-Linux-2022-State,"Lenovo Expects 30+ Platforms with Linux Support This Year, Both AMD and Intel",17
+282,https://www.nytimes.com/2022/07/27/opinion/alabama-fines-fees.html,Alabama Takes from the Poor and Gives to the Rich,13
+283,https://www.theguardian.com/world/2022/aug/01/germany-puts-coal-power-plant-back-on-network-after-gas-supply-cut,Germany puts coal power plant back on network after gas supply cut,16
+284,https://www.science.org/content/blog-post/tiny-proteins-getting-sorted-out,"Tiny Proteins, Getting Sorted Out",31
+285,https://cybernews.com/apple-network-traffic-went-through-russia-for-12-hours/,Apple network traffic went through Russia for 12 hours,13
+286,https://www.theguardian.com/games/2022/aug/02/pressing-paws-stray-the-video-game-thats-a-hit-with-cats-and-their-humans,"Stray, the video game that’s a hit with cats (and their humans)",14
+287,https://planetscale.com/blog/how-planetscale-prevents-mysql-downtime,PlanetScale Prevents MySQL Downtime,20
+288,https://exafunction.com/blog/ecc-gpu,Increase usable cloud GPU memory by up to 6.6% through disabling ECC,22
+289,https://news.cornell.edu/stories/2022/08/earlier-wheat-planting-will-boost-yields-eastern-india,Earlier wheat planting will boost yields in eastern India,19
+290,https://www.theguardian.com/books/2022/aug/02/pearson-plans-to-sell-its-textbooks-as-nfts,Pearson plans to sell its textbooks as NFTs,17
+291,http://particletree.com/features/on-the-tenacity-of-internet-explorer-6/,On the Tenacity of Internet Explorer 6,27
+292,http://unitedwithisrael.org/israel-develops-cancer-vaccine/,Israel develops cancer vaccine,11
+293,https://budibase.com/blog/updates/a-story-about-open-source-the-bulgarian-government-and-the-war-in-ukraine/,"A story about open-source, the Bulgarian Government, and the war in Ukraine",26
+294,https://asindu.xyz/math-for-the-lay-man/,Math for the Layman,13
+295,http://www.eetimes.com/electronics-news/4230565/AMD-s-Interlagos-and-Valencia-finally-emerge,AMD's Interlagos and Valencia finally emerge,21
+296,https://www.salon.com/2022/02/16/nfts-arent-art--theyre-just-the-of-cryptos-latest-scam/,NFTs aren't art – they're just the Cult of Crypto's latest scam,11
+297,https://www.vice.com/en/article/xgyy7z/ai-is-inventing-its-own-fundamental-physics-and-scientists-are-baffled,AI Is Discovering Its Own ‘Fundamental’ Physics and Scientists Are Baffled,17
+298,https://baymard.com/blog/line-length-readability,Readability: The Optimal Line Length,14
+299,https://www.city-journal.org/new-york-city-criminal-justice-guardrails-are-falling,New York City’s Growing Behavior Gap,21
+300,https://lore.kernel.org/lkml/CABG1boOzm2Ya2PphtEXLwUN143HmosfVUt3wAg09hzwJA_59bQ@mail.gmail.com/,Can a Linux kernel module blow the PC speaker?,18
+301,https://techcrunch.com/2022/08/04/tutanota-cries-antitrust-foul-over-microsoft-teams-blocking-sign-ups-for-its-email-users/,Tutanota cries antitrust foul over Microsoft Teams blocking its email users,16
+302,https://www.gamedeveloper.com/design/how-forza-s-drivatar-actually-works,How Forza's Drivatar Works (2021),15
+303,https://climateandsecurity.files.wordpress.com/2019/07/implications-of-climate-change-for-us-army_army-war-college_2019.pdf,Implications of Climate Change [pdf],15
+304,https://www.historytoday.com/archive/making-history/explicit-content,Explicit Content,22
+305,https://www.wired.co.uk/article/drone-contraband-deliveries-prisons-united-states,Drone Contraband Deliveries Are Rampant at US Prisons,21
+306,https://compilerspotlight.substack.com/p/language-showcase-fennel,Language Showcase: Fennel,23
+307,http://jessenoller.com/good-to-great-python-reads/,Good to Great Python reads,41
+308,http://www.jespersaur.com/drupal/book/export/html/21,Learning how to reverse engineer a Windows USB driver: the Luxeed LED keyboard,21
+309,https://brownstone.org/articles/brown-universitys-silence-on-post-vaccine-myocarditis/,Brown University’s Silence on Post-Vaccine Myocarditis,17
+310,https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6,Stateless Kubernetes overlay networks with IPv6,23
+311,https://blenderbot.ai/,BlenderBot: A Conversational AI Prototype,14
+312,http://highrise.nfb.ca/onemillionthtower,One Millionth Tower - HTML5 Documentary,32
+313,https://twitter.com/rsgnl/status/1555628206518157312,Cult of Mac blatantly plagiarising Mac Rumors content,14
+314,https://www.bbc.co.uk/news/uk-wales-62442127,Major NHS computer outage caused by cyber attack,13
+315,https://www.salon.com/2022/08/05/earth-is-spinning-faster-than-it-should-be-and-no-one-is-sure-why/,Earth is spinning faster than it should be and no one is sure why – Salon.com,14
+316,https://harvardnsj.org/wp-content/uploads/sites/13/2022/06/Vol13Iss2_Kostyuk-Landau_Dual-EC-DRGB.pdf,HNSJ: The Consequences of Corrupting a Cryptographic Standardization Process [pdf],40
+317,https://chestofbooks.com/crafts/scientific-american/sup3/Whistling-Buoys.html,Whistling Buoys,14
+318,https://blogs.bl.uk/european/2022/08/a-bibliographical-mystery-solved.html,A Bibliographical Mystery Solved,17
+319,https://wiseinternational.org/nuclear-monitor/872-873/forgotten-history-small-nuclear-reactors,Forgotten history of small nuclear reactors,14
+320,http://www.extremetech.com/computing/105029-intel-4004-the-first-cpu-is-40-years-old-today,"Intel 4004, the first CPU, is 40 years old today",11
+321,https://web.archive.org/web/20121102233704/http://imh.org/history-of-the-horse/legacy-of-the-horse/harnessing-the-horse/kikkuli-1345.html,"Kikkuli, 1345 BCE: Training the Chariot Horse",29
+322,https://phys.org/news/2022-08-pompeii-highlight-middle-class-life-doomed.html,New Pompeii finds highlight middle-class life in doomed city,34
+323,https://techxplore.com/news/2022-08-flight-tracking-exposure-irks-billionaires.html,Flight tracking exposure irks billionaires and baddies,15
+324,https://security.stackexchange.com/questions/192553/what-do-you-search-for-in-open-source-code-to-be-sure-there-isnt-malicious-code,What to search for in open source code to be sure there isn't malicious code?,14
+325,http://szabgab.com/how-to-teach-modern-perl.html,"How to teach ""Modern"" Perl?",40
+326,https://concord.sh/posts/2022/08/uefi-secure-boot-the-right-way/,./Concord.sh: UEFI Secure Boot the Right Way,12
+327,http://swizec.com/blog/we-are-not-generation-sell/swizec/2926,We are not generation sell,19
+328,https://www.independent.co.uk/news/world/europe/portugal-former-dictator-salazar-book-b2007149.html,Portugal ‘fooled’ ex-dictator to believe he still led from his sickbed,16
+329,https://www.theglobeandmail.com/opinion/article-subscription-overload-why-our-right-to-own-is-important-in-a/,Why our ‘right to own’ is important in a subscription-based world,25
+330,https://www.protocol.com/policy/russia-ukraine-telegram-instagram-youtube,How Russia’s troll army spread on YouTube and Instagram,13
+331,https://www.theregister.com/2022/08/08/google_workspace_lawsuit/,Google sued for dropping free Workspace apps,24
+332,https://github.blog/2022-08-08-new-request-for-comments-on-improving-npm-security-with-sigstore-is-now-open/,Improving NPM Security with Sigstore,21
+333,https://planetscale.com/blog/database-devops,Database DevOps,15
+334,http://en.wikipedia.org/wiki/ZigBee,"ZigBee - Low Power, Low Cost, Mesh wireless for control/sensor network",12
+335,https://blogs.bl.uk/digitisedmanuscripts/2022/08/breaking-news.html,Breaking the news of the fall of Richard II,14
+336,https://www.freebsd.org/status/report-2022-04-2022-06/,FreeBSD Quarterly Status Report Second Quarter 2022,13
+337,https://theamericanscholar.org/the-disappearing-modernists/,The Disappearing Modernists,19
+338,https://globalnews.ca/news/9047489/hootsuite-layoffs-canada-tech/,Hootsuite cutting 30% of staff in latest round of tech layoffs,15
+339,https://fuinn.github.io/mos-docs/,"Show HN: MOS, an application to help you deploy mathematical optimization models",12
+340,https://news.mongabay.com/2022/06/world-is-losing-magical-tradition-of-human-animal-mutualism-study-warns/,"World is losing ‘magical’ tradition of human-animal mutualism, study warns",18
+341,https://layoffbase.com/,Show HN: Layoffbase – the place where you can get a new tech job after layoff,11
+342,https://www.nature.com/articles/d41586-022-02083-2,‘The entire protein universe’: AI predicts shape of nearly every known protein,26
+343,https://github.com/fcoury/oxide,OxideDB – Teach PostgreSQL Database How to Speak MongoDB Wire Protocol,16
+344,https://www.computerworld.com/article/3668548/the-story-behind-google-s-in-house-desktop-linux.html,Google’s In-House Desktop Linux,15
+345,https://www.justice.gov/opa/pr/russian-national-charged-conspiring-have-us-citizens-act-illegal-agents-russian-government,Russian National Charged with Conspiring to Act as Illegal Agents of the Russia,20
+346,https://coloraround.xyz/,Show HN: ColorAround – where you need to find a color around u using the camera,14
+347,http://clientside.cnet.com/best-practices/jquery-and-the-ajax-experience-programming-to-the-pattern-and-what-really-makes-one-framework-different-from-another/,What Really Makes One Framework Different From Another,11
+348,https://vole.wtf/kubrick-times/,The Kubrick Times,38
+349,https://www.os2museum.com/wp/antique-display-driving/,Antique Display Driving,25
+350,https://www.theregister.com/2022/07/29/us_judiciary_attack/,US court system suffered 'incredibly significant attack' – sealed files at risk,13
+351,http://techcrunch.com/2011/11/12/10-things-entrepreneurs-dont-learn-in-college/,Things Entrepreneurs don't learn in college,19
+352,https://www.lucacambiaghi.com/posts/ipad-main-computer.html,I turned my iPad Pro into my main computer (2021),14
+353,https://thehill.com/opinion/energy-environment/3539703-no-miracle-tech-needed-how-to-switch-to-renewables-now-and-lower-costs-doing-it/,No miracle tech needed: How to switch to renewables now and lower costs doing it,12
+354,https://www.theverge.com/2022/7/29/23283837/nj-police-baby-dna-crimes-lawsuit-public-defender,"NJ police used baby DNA to investigate crimes, lawsuit claims",11
+355,https://gizmodo.com/data-brokers-selling-pregnancy-roe-v-wade-abortion-1849148426,Companies Know When You're Pregnant–and They're Not Keeping It Secret,14
+356,https://sites.psu.edu/seticourse/9-dimensional-haystack/,9-Dimensional Haystack,38
+357,https://github.com/defano/wyldcard,WyldCard: A clone of Apple's Hypercard and HyperTalk scripting language,23
+358,https://www.youtube.com/watch?v=SiCvGQnweAg,Yuval Noah Harari: The Actual Cost of Preventing Climate Breakdown,13
+359,https://greenwald.substack.com/p/court-rejects-googles-attempt-to,Court Rejects Google's Attempt to Dismiss Rumble's Antitrust Lawsuit,11
+360,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4167193,Business Retreats and Sanctions Are Crippling the Russian Economy,13
+361,https://github.com/sysrpl/Tiny.Sim,Codebot.Tiny – A tiny library for rendering animated 2D/3D graphics,46
+362,https://www.morganstanley.com/im/publication/insights/articles/article_goodlossesbadlosses.pdf,"Good Losses, Bad Losses [pdf]",29
+363,https://www.inverse.com/culture/stargate-sg-1-25th-anniversary,25 YRs Ago a Stellar SCI-FI Show Saved a Broken Franchise and Changed TV History,12
+364,https://arstechnica.com/gaming/2022/07/star-trek-icon-nichelle-nichols-dead-at-89/,Star Trek icon Nichelle Nichols dead at 89,17
+365,https://www.cnn.com/2022/07/31/entertainment/nichelle-nichols-star-trek-dies/index.html,"Nichelle Nichols, trailblazing 'Star Trek' actress, dies at 89",12
+366,https://slp.prose.sh/running-microvms-on-m1,Running Linux MicroVMs on macOS (M1/M2),29
+367,https://www.jackos.io/rust-kernel/rust-for-linux.html,Rust Linux kernel development,95
+368,http://people.csail.mit.edu/phw/interview.html,"From a 2050 interview with Sarah Winston, former President of the United States",12
+369,http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/11/11/BUKH1LSL96.DTL&type=tech,"LinkedIn, others show why transparency is needed",23
+370,https://newatlas.com/energy/blowhole-wave-energy-generator/,Blowhole wave energy generator exceeds expectations in 12-month test,16
+371,https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-takes-action-stop-online-home-buying-firm-opendoor-labs-inc-cheating-potential-sellers,FTC Takes Action to Stop Opendoor from Cheating Potential Sellers,140
+372,https://twitter.com/joebarnard/status/1551203348291825665,BPS.Space landed a model rocket after 7 years,25
+373,https://cointelegraph.com/news/nomad-token-bridge-drained-of-190m-in-funds-in-security-exploit,Nomad token bridge drained of $190M in funds in security exploit,13
+374,https://www.businessinsider.com/electric-vehicle-startup-rivian-layoffs-stock-headache-amazon-ford-2022-7,Rivian lays off hundreds of workers,15
+375,https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2022/,Backblaze Drive Stats for Q2 2022,43
+376,https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/,The Computer Scientist Challenging AI to Learn Better,11
+377,http://www.startupsmart.com.au/funding/american-express-to-plough-$100-million-into-digital-start-ups/201111114529.html,American Express to plough $100 million into digital start-ups,33
+378,https://github.com/barafael/cute-copter,A little whimsy copter based on a PCB frame,26
+379,https://www.cam.ac.uk/stories/climateendgame,Climate change potential to end humanity ‘dangerously underexplored’,39
+380,https://www.theinformation.com/articles/y-combinator-slashes-startup-accelerator-class-size-by-40,Y Combinator Slashes Startup Accelerator Class Size by 40%,41
+381,https://github.com/BowenFu/hspp,"Show HN: Mom, can we have (Haskell flavored) post-modern C++ at home?",20
+382,https://publicdomainreview.org/collection/allegorical-maps-of-love-courtship-and-matrimony/,"Allegorical maps of love, courtship, and matrimony",31
+383,https://www.archaeology.org/issues/476-2207/letter-from/10625-georgia-stone-mounds,A complex of Native American rock mounds bears witness to ancient traditions,54
+384,https://www.uc.edu/news/articles/2022/08/using-light-to-restore-cell-function.html,Using light to restore cell function,40
+385,https://github.com/lurk101/pshell,"A tiny Raspberry Pico shell with flash file system, vi, and C compiler",38
+386,https://lcarsde.github.io/index.html,Star Trek Lcars Desktop Environment,15
+387,http://www.vccafe.com/silicon-valley/the-rise-of-silicon-roundabout-tech-city-uk-in-10-links/,Everything you need to know about Silicon Roundabout  in 10 links,26
+388,https://futurism.com/the-byte/hackers-loot-blockchain-bridge-millions,Hackers Loot Blockchain Bridge for Millions in “Frenzied Free for All”,17
+389,https://www.oreilly.com/radar/scaling-false-peaks/,Scaling False Peaks,23
+390,https://www.dylanpaulus.com/,Advice for New Software Engineers,11
+391,https://fedoraproject.org/wiki/Changes/RaspberryPi4,Fedora 37 to officially support Raspberry Pi 4,14
+392,https://www.slowboring.com/p/the-monkeypox-situation-keeps-getting,The monkeypox situation keeps getting worse,11
+393,http://insidesearch.blogspot.com/2011/11/ten-recent-algorithm-changes.html,Ten recent algorithm changes,62
+394,http://hkarthik.me/blog/2011/11/11/my-reasons-for-leaving-net/,My Reasons for Leaving .NET,11
+395,https://support.apple.com/en-us/HT201607,You must sign into a mailbox with Apple Mail to change the default Mac mail app,15
+396,https://www.thedrive.com/the-war-zone/russia-building-ghost-bridges-with-radar-reflectors-in-ukraine,Russia Is Building 'Ghost Bridges' with Radar Reflectors,11
+397,http://vanessahurst.com/80059811,Piercing the Tech Networking Bubble with Open Mentoring,22
+398,https://www.cloudflare.net/news/news-details/2022/Cloudflare-Announces-Second-Quarter-2022-Financial-Results/default.aspx,Cloudflare Announces Second Quarter 2022 Financial Results,20
+399,http://hainbit.com/c/B0/10-must-have-gadgets,10 Must-Have Gadgets,14
+400,https://www.nextplatform.com/2022/08/04/e-pluribus-network-arista-networks-that-is/,"E Pluribus, Network – Arista Networks, That Is",27
+401,https://www.aboutamazon.com/news/company-news/amazon-and-irobot-sign-an-agreement-for-amazon-to-acquire-irobot,Amazon to Acquire iRobot,68
+402,http://venturebeat.com/2011/11/14/vint-cerf/,Vint Cerf: The government is going overboard in Internet copyright control,121
+403,https://defector.com/inside-hollywoods-visual-effects-crisis/,Hollywood’s Visual Effects Crisis,15
+404,http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-821-programming-languages-fall-2002/syllabus/,SICP is still used at MIT at graduate level.,46
+405,https://www.hsdl.org/?abstract&did=750070,Simple Sabotage Field Manual (1945),31
+406,https://twitter.com/software_daily/status/1555612414477242370,Jeff from Software Daily passed away,29
+407,https://grahamcluley.com/kaspersky-blames-misconfiguration-after-customers-receive-dear-and-lovely-email/,Kaspersky blames misconfiguration after customers receive “dear and lovely”email,15
+408,https://www.joinsquad.co,Show HN: Squad – Group accountability partners for building atomic habits,15
+409,https://metro.co.uk/2022/08/03/ants-crawl-inside-womans-kindle-and-start-buying-books-17117367/,Ants crawl inside woman’s Kindle and start buying books,14
+410,https://github.com/mxmlnkn/pragzip,Show HN: Thread-Parallel Decompression and Random Access to Gzip Files (Pragzip),15
+411,https://www.cnn.com/2022/08/03/politics/fema-emergency-alert-software-warning/index.html,FEMA warns emergency alert systems could be hacked to transmit fake messages,15
+412,https://spectrum.ieee.org/history-of-augmented-reality,A Parachute Accident in 1992 jump-started the birth of Augmented Reality,28
+413,https://unblob.org/,Show HN: Unblob – accurate and fast extraction suite for 30+ formats,17
+414,http://www.cato.org/pub_display.php?pub_id=9685,Bank Loans Have Not 'Dried Up',18
+415,https://www.sandboxx.us/blog/why-the-military-has-an-office-dedicated-to-tracking-the-worlds-biggest-blocks-of-ice/,The Military Has an Office Dedicated to Tracking World’s Biggest Blocks of Ice,19
+416,https://daniel.haxx.se/blog/2022/08/08/how-i-merge-prs-in-curl/,How I merge PRs in curl,19
+417,http://dongchaoyang.top/text-to-sound-synthesis-demo/,Diffsound: Discrete Diffusion Model for Text-to-Sound Generation,51
+418,https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808,OFAC Sanctions on Tornado Cash,32
+419,https://news.yahoo.com/russians-threaten-blow-mined-zaporizhzhia-084905084.html,Russians threaten to blow up mined Zaporizhzhia Nuclear Power Plant Energoatom,14
+420,https://en.tutiempo.net/astronomy/sun-earth-moon-3d.html,"Sun, Earth and Moon Position – 3D Simulator",17
+421,https://arstechnica.com/gadgets/2022/08/rumors-delays-and-early-testing-suggest-intels-arc-gpus-are-on-shaky-ground/,"Rumors, delays, and early testing suggest Intel’s Arc GPUs are on shaky ground",11
+422,https://www.phoronix.com/news/FreeBSD-Q2-2022,"FreeBSD in Q2-2022: 30k Ports, Driver Improvements, Better Linux Compatibility",15
+423,http://lambda-the-ultimate.org/node/3035,Solutions to SICP Exercises,13
+424,https://apnews.com/article/science-health-ticks-73fab8e29f3e2243c2db5bc33b3265e1,First phase 3 Lyme vaccine clinical trial in 20 years begins,17
+425,http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartNine.aspx,C++11 Concurrency Series: 9. Condition Variables and Message Passing ,34
+426,https://xeiaso.net/blog/tarot-for-hackers-2019-07-24,Tarot for Hackers (2019),19
+427,http://www.cyberpunkreview.com/internet-find/first-recorded-usage-of-hacker-from-mit-paper-in-1963/,First recorded usage of “Hacker” from MIT paper in 1963,26
+428,https://github.com/FairwindsOps/gonogo,GoNoGo: Determine the upgrade confidence of your K8s cluster addons,19
+429,https://arstechnica.com/gadgets/2022/07/samsungs-repair-mode-lets-technicians-look-at-your-phone-not-your-data/,"Samsung’s “repair mode” lets technicians look at your phone, not your data",12
+430,https://www.ams.org/notices/200902/rtx090200212p.pdf,Birds and Frogs (2009) [pdf],16
+431,https://www.red-lang.org/2022/07/new-red-binaries.html,New Red Binaries,19
+432,https://twitter.com/kenshirriff/status/1552723519087198208,Himars mobile rocket launcher “virtual” teardown,11
+433,https://www.theverge.com/2022/7/29/23283942/us-justice-department-federal-courts-data-breach-solar-winds,The US’s federal courts were reportedly hit by another data breach,12
+434,https://musictheory.pugetsound.edu/mt21c/frontmatter.html,Music Theory for the 21st-Century Classroom,18
+435,https://www.autodidacts.io/how-to-start-a-project/,How to Start a Project: An Infocomic,25
+436,https://github.com/NarrativeScience/log.io,Log.io – Real-time log monitoring in the browser,14
+437,https://www.cell.com/joule/fulltext/S2542-4351(22)00191-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS254243512200191X%3Fshowall%3Dtrue,Triple-junction solar cells with 39.5% efficiency via quantum well superlattices,12
+438,http://www.toghq.com/,"Tog: A New, Non-Intrusive Way To Social Network-ify Your Rails Apps",15
+439,https://github.com/OpenBMB/BMList,"BMList – A list of big pre-trained models (GPT-3, DALL-E2...)",55
+440,https://www.cnbc.com/2022/07/29/amd-passes-intel-in-market-cap.html,AMD passes Intel in market cap,15
+441,https://evjang.com/2022/07/23/robotics-generative.html,How can we make robotics more like generative modeling?,61
+442,https://alexanderell.is/posts/3d-scan/,Funny artifacts in a 3D house scan,33
+443,https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d,Apple’s privacy changes create windfall for its own advertising business,21
+444,http://blog.fogus.me/2009/03/26/baysick-a-scala-dsl-implementing-basic/,Baysick: A Scala DSL Implementing BASIC (2009),31
+445,https://aeon.co/essays/downtime-is-not-an-option-meet-the-stewards-of-the-cloud,The People Of The Cloud,45
+446,http://www.readwriteweb.com/archives/cern_officially_unveils_its_gr.php,"CERN Officially Unveils Its Grid: 100,000 Processors, 15 Petabytes a Year",15
+447,https://ellipticnews.wordpress.com/2022/07/31/breaking-supersingular-isogeny-diffie-hellman-sidh/,Breaking supersingular isogeny Diffie-Hellman (SIDH),23
+448,https://lexman.rocks,Lexman Artificial Podcast (100% AI-generated podcast),22
+449,https://9to5mac.com/2022/08/01/iphone-ban/,Apple claims human rights violation over iPhone ban in Colombia,12
+450,https://www.coindesk.com/tech/2022/08/02/nomad-bridge-drained-of-nearly-200-million-in-exploit/,Nomad Bridge Drained of Nearly $200M in Exploit,19
+451,https://astralcodexten.substack.com/p/model-city-monday-8122,Model City Monday,17
+452,https://airandspace.si.edu/stories/editorial/defending-superbomber-b-29s-central-fire-control-system,The B-29's automated central fire control system (1945),32
+453,https://github.com/vercel-labs/hacker-news-slack-bot,Show HN: Get Slack notifications for Hacker News mentions,15
+454,https://www.roshi.ai/activities,Show HN: Duolingify – Turn YouTube videos or text into language-learning games,11
+455,http://www.ustream.tv/recorded/18455566,Render Kinect data in a canvas element using NodeJS+Socket.IO (skip to 21:50),26
+456,https://www.washingtonpost.com/opinions/2022/08/02/nancy-pelosi-taiwan-visit-op-ed/,Nancy Pelosi: Why I’m leading a congressional delegation to Taiwan,13
+457,https://www.washingtonpost.com/technology/2022/08/02/why-gadgets-die/,Why your gadgets die so quickly,28
+458,https://www.wsj.com/articles/equifax-sent-lenders-inaccurate-credit-scores-on-millions-of-consumers-11659467483,Equifax Sent Lenders Inaccurate Credit Scores on Millions of Consumers,43
+459,https://twitter.com/typeswitch/status/1553168358215917568,JIT Compiler for Forth,36
+460,https://www.callapple.org/programming/apple-ii-software-enthusiasts-summer-2022-challenge/,Apple II Software Enthusiasts Summer 2022 Challenge,18
+461,http://technolog.msnbc.msn.com/_news/2011/11/14/8790557-kindle-fire-review-yes-its-that-good,"Kindle Fire Review: Yes, it's that good",12
+462,https://www.npr.org/2022/08/03/1114964240/new-battery-technology-china-vanadium,How the U.S. lost the Next Big Thing to China – again,14
+463,https://www.eenews.net/articles/californias-megadrought-is-worse-than-you-think/,California’s megadrought is worse than you think,47
+464,http://mittermayr.tumblr.com/post/12783989865/the-power-of-mturk,The Power of Mechanical Turk,12
+465,http://dsc.discovery.com/news/2008/10/02/mind-control-pattern-print.html,Insecure Minds Wired for Pattern-Finding,11
+466,https://arstechnica.com/tech-policy/2022/08/microsoft-playing-dumb-on-anti-abortion-donations-activists-say/,"Microsoft’s PAC donations under fire from activists, shareholders",11
+467,https://www.abc.net.au/news/2022-08-03/space-x-debris-sheep-paddock-australian-space-agency/101295488,"SpaceX rocket debris lands in sheep paddock, Australian Space Agency confirms",17
+468,https://www.wsj.com/articles/michael-saylor-bet-billions-on-bitcoin-and-lost-11659538890,Michael Saylor Bet Billions on Bitcoin and Lost,17
+469,http://www.infoq.com/presentations/Language-Panel,Strange Loop 2011 Languages Panel,38
+470,https://www.theguardian.com/commentisfree/2022/jan/11/trump-fdr-roosevelt-coup-attempt-1930s,Why is so little known about the 1930s coup attempt against FDR?,15
+471,http://www.nytimes.com/2008/10/05/magazine/05Green-t.html?_r=1&oref=login&pagewanted=all,Capitalism to the Rescue - Green Tech Rising,21
+472,http://www.fsf.org/campaigns/priority.html,High Priority Free Software Projects,15
+473,http://arstechnica.com/apple/reviews/2011/11/why-steve-jobs-cried.ars,Why Steve Jobs cried,18
+474,http://blog.zenspider.com/2008/10/some-reasons-why-i-left-the-ac.html,Some reasons why I left the ACM,13
+475,http://googleappengine.blogspot.com/2011/11/google-bigquery-service-big-data.html,Google BigQuery Service: Big data analytics at Google speed,53
+476,https://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829,Roomba's Next Big Step Is Selling Maps of Your Home to the Highest Bidder (2017),15
+477,https://www.wired.com/story/student-monitoring-software-privacy-in-schools/,Kids Are Back in Classrooms and Laptops Are Still Spying on Them,38
+478,https://cacm.acm.org/magazines/1991/9,CACM special issue on Lisp (1991),44
+479,https://www.phoronix.com/news/GNOME-Secure-Boot-Warning,GNOME to Warn Users If Secure Boot Disabled,17
+480,https://www.technologyreview.com/2022/08/06/1056727/vr-virtual-reality-psychedelics-transcendence/,VR is as good as psychedelics at helping people reach transcendence,16
+481,http://www.fourhourworkweek.com/blog/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/,Harnessing Entrepreneurial Manic-Depression: Making the Rollercoaster Work for You,23
+482,http://googleblog.blogspot.com/2011/11/greater-choice-for-wireless-access.html,Opt-out of Google's wireless-access-point location database,18
+483,https://github.com/ESWAT/john-carmack-plan-archive,Collection of John Carmack’s .plan files,20
+484,https://www.bbc.com/news/science-environment-62391069,Pollution: 'Forever chemicals' in rainwater exceed safe levels,12
+485,http://spectrum.ieee.org/geek-life/hands-on/the-making-of-arduino/0?,The Making of Arduino,46
+486,https://www.farmhand.life/,"Farmhand, the open source farming and resource management game for the browser",16
+487,http://sourcefabric.org/en/airtime/release/,Open source radio software Airtime released with easy install package,34
+488,https://www.youtube.com/watch?v=tUAX0gnZ3Nw,“Games as a service” is fraud [video],19
+489,https://www.appblock.app/appblock-is-temporarily-unavailable-on-google-play,AppBlock – App with more than 1M/downloads was blocked on Play Store,11
+490,https://www.pillar.vc/playlist/article/open-source-tools-for-computational-biology/,Open Source Tools for Computational Biology,18
+491,https://www.science.org/doi/10.1126/sciimmunol.abp9962,New Treatment Neutralizes All Covid-19 Variants,22
+492,https://alistapart.com/article/a-content-model-is-not-a-design-system/,A content model is not a design system (2021),49
+493,https://hackerone.com/reports/1439026,Twitter paid $5000 bug bounty that resulted in 5.4mm leaked records,18
+494,https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/,Assorted thoughts on Zig and Rust (2020),12
+495,http://www.theverge.com/2011/11/15/2517610/microsoft-socl-inside-the-companys-secret-social-network,"Inside Socl, Microsoft's Social Network",20
+496,https://mmpractices.com/,Mental Model Practices,110
+497,http://www.stat.columbia.edu/~gelman/research/published/ChanceEthics11.pdf,The commissar for traffic presents the latest five-year plan (2014) [pdf],52
+498,https://aeon.co/essays/the-dopamine-switch-between-atheist-believer-and-fanatic,"The dopamine switch between atheist, believer and fanatic",15
+499,https://80.lv/articles/meta-reports-its-first-ever-quarterly-revenue-decline,Meta Reports Its First-Ever Quarterly Revenue Decline,16
